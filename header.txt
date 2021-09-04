@@ -1,3 +1,5 @@
 some text for header
+
 changes from 'master'
+hello, its changes from 'first' branch
 changes from master 2
